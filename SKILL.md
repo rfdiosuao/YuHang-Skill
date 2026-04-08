@@ -1,3 +1,6 @@
+Archive:  /tmp/YuHang-Skill.zip
+   creating: /tmp/YuHang-Skill-temp/YuHang-Skill/
+  inflating: /tmp/YuHang-Skill-temp/YuHang-Skill/SKILL.md  
 ---
 name: "YuHang-Skill"
 description: "YuHang's digital avatar containing personal profile, decision-making model, and core values. Invoke when user asks about YuHang's preferences, decision framework, or needs personalized advice."
